@@ -31,10 +31,15 @@
 > enter the URI string into the location field of the shorcut wizard to create a shortcut of  the location entered.
 
 ### Syntax:
-
+command terminal method
 ```
 start [URI Command String]
 ```
+other methods:
+```
+[URI Command String]
+```
+
 
 ### Navigation:
 
