@@ -23,23 +23,18 @@
 ## Execution methods:
 
 > command terminal (cmd or posh) 
+> ```
+> start [URI Command String]
+> ```
 > 
 > run dialog window (⊞ WIN +r )
 > 
 > the windows explorer addresss bar
 > 
 > enter the URI string into the location field of the shorcut wizard to create a shortcut of  the location entered.
-
-### Syntax:
-command terminal method
-```
-start [URI Command String]
-```
-other methods:
-```
-[URI Command String]
-```
-
+> ```
+> [URI Command String]
+> ```
 
 ### Navigation:
 
