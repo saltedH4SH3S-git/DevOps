@@ -20,7 +20,7 @@
 > 
 > OS: Windows 10 Professional Build 1909
 
-## Executed methods:
+## Execution methods:
 
 > command terminal (cmd or posh) 
 > 
