@@ -4,7 +4,7 @@
 
 ### Legal
 
-> The contents of the document are the property of Microsoft (c) 2020. I have no legal claim to its contents. This document is released under Fair Use ( US Title 17 Section 107-118  "Copyright Law"). The purpose this document is intended for teaching and aide in research the given subject.
+> The contents of the document are the property of Microsoft (c) 2020. I have no legal claim to its contents. This document is released under Fair Use ( US Title 17 Section 107-118  "Copyright Law"). The purpose this document is intended for notes for learning, teaching and aiding in research the given subject.
 
 ## Summary
 
