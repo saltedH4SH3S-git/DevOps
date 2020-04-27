@@ -12,7 +12,7 @@
 
 ## Notes
 
-> There are deep embeded internet urls and apps URI and actions have not been included in this current version of documentation. This document is complete for the needs of the author.
+> This document is complete for the needs of the author. Future updates are as required for corrections or update material.
 
 ## Document Info:
 
