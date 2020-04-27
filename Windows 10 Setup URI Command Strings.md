@@ -4,7 +4,7 @@
 
 ### Legal
 
-> The referenced material within this document is the property of Microsoft Corporation. The purpose of this document is intended for notes for learning, teaching and aiding in the research of the given subject. This document is released under the US Copyright - Fair Use (US Title 17 Section 107-118). Any person who reproduces or uses this document are subjected as same guidelines. This document is intended for educational private use only.
+> The referenced material within this document is the property of Microsoft Corporation. The purpose of this document is intended for notes for learning, teaching and aiding in the research of the given subject. This document is released under the US Copyright - Fair Use (US Title 17 Section 107-118). Any person who reproduces or uses this document are subjected to the same guidelines. This document is intended for educational private use only.
 
 ## Summary
 
